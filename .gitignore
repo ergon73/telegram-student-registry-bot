@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.db
+.idea/
+.vscode/
+
+# Локально, не для GitHub
+.cursorrules
+human-readme.md
+genai-readme.md
